@@ -13,7 +13,6 @@
     "jsx": "preserve",
     "incremental": true,
     "downlevelIteration": true,
-    "ignoreBuildErrors": true,
     "plugins": [
       {
         "name": "next"
